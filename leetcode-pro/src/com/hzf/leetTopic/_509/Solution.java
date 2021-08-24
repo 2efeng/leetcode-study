@@ -1,4 +1,4 @@
-package com.hzf._509;
+package com.hzf.leetTopic._509;
 
 /**
  * @author 2efeng

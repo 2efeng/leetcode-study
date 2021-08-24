@@ -1,4 +1,4 @@
-package com.hzf._70;
+package com.hzf.leetTopic._70;
 
 /**
  * @Author 2efeng
